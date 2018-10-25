@@ -1,6 +1,6 @@
 # django-practice
 
-last practice: 5/13/18, left off @ https://docs.djangoproject.com/en/2.0/intro/tutorial05/
+last practice: 10/24/18, left off @ https://docs.djangoproject.com/en/2.1/intro/tutorial06/
 start of lesson
 
 djangoadmin
